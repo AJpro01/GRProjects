@@ -1,2 +1,2 @@
 # GRProjects
-Basic Learning of openpyxl module
+Basic Learning steps towards AI-ML
